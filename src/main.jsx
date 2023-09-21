@@ -4,7 +4,7 @@ import App from "./App";
 import "./styles/app.scss";
 import { createContext } from "react";
 
-export const server = "https://to-do-backend-q5hy.vercel.app/";
+export const server = "https://to-do-backend-wheat.vercel.app/";
 
 export const Context = createContext({ isAuthenticated: false });
 
